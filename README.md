@@ -37,9 +37,21 @@ Computational Physics • Quantum Research • Scientific Computing • Simulati
 ---
 ## Connect with Me
 
-- GitHub: [PSIPHYS](https://github.com/PSIPHYS)
-- LinkedIn: [Shahad Aldhafiri](https://www.linkedin.com/in/shahad-aldhafiri/)
-- QuantaLab: https://quanta-lab.vercel.app
-- Portfolio: https://shahad-aldhafiri-portfolio.ai.studio/
+## Connect with Me
+
+<p align="left">
+  <a href="https://github.com/PSIPHYS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahad-aldhafiri/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  <a href="https://quanta-lab.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/QuantaLab-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://shahad-aldhafiri-portfolio.ai.studio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 > *"Physics is understood best when we can compute, simulate, and visualize it."*
