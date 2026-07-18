@@ -1,10 +1,10 @@
 
 <h1 align="center">Shahad Aldhafiri</h1>
 <p align="center">
-Computational Physics • Quantum Research • Scientific Software
+Computational Physics • Quantum Research • Scientific Computing • Simulations
 </p>
 
-## Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
@@ -14,7 +14,7 @@ Computational Physics • Quantum Research • Scientific Software
 
 ---
 
-## Frameworks & Tools
+## Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
@@ -28,8 +28,7 @@ Computational Physics • Quantum Research • Scientific Software
 
 ## Featured Projects
 
-**[QuantaLab](https://quanta-lab.vercel.app/)** — Interactive computational physics and quantum mechanics simulations built with React, Three.js, and scientific computing techniques.
-
+**[QuantaLab](https://quanta-lab.vercel.app/)** — An interactive platform for computational physics and quantum mechanics simulations, developed with React, Three.js, and scientific computing techniques.
 ---
 
 ## GitHub Stats
@@ -43,8 +42,9 @@ Computational Physics • Quantum Research • Scientific Software
 ---
 ## Connect with Me
 
-- GitHub: https://github.com/PSIPHYS
-- LinkedIn: https://www.linkedin.com/in/shahad-aldhafiri/
-- Portfolio: https://quanta-lab.vercel.app/
+- GitHub: [PSIPHYS](https://github.com/PSIPHYS)
+- LinkedIn: [Shahad Aldhafiri](https://www.linkedin.com/in/shahad-aldhafiri/)
+- QuantaLab: https://quanta-lab.vercel.app
+- Portfolio: [https://quanta-lab.vercel.app/](https://shahad-aldhafiri-portfolio.ai.studio/)
 
 > *"Physics is understood best when we can compute, simulate, and visualize it."*
