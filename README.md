@@ -47,7 +47,7 @@ Computational Physics • Quantum Research • Scientific Computing • Simulati
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
   <a href="https://quanta-lab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/QuantaLab-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="icons%20-%2012.png" height="40" alt="QuantaLab" />
   </a>
   <a href="https://shahad-aldhafiri-portfolio.ai.studio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
