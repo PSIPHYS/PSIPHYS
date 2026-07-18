@@ -37,8 +37,6 @@ Computational Physics • Quantum Research • Scientific Computing • Simulati
 ---
 ## Connect with Me
 
-## Connect with Me
-
 <p align="left">
   <a href="https://github.com/PSIPHYS" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" />
