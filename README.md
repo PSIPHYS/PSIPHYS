@@ -1,3 +1,9 @@
+
+<h1 align="center">Shahad Aldhafiri</h1>
+<p align="center">
+Computational Physics • Quantum Research • Scientific Software
+</p>
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,19 +28,23 @@
 
 ## Featured Projects
 
-- **QuantaLab** – Interactive computational physics and quantum mechanics simulations built with React, Three.js, and scientific computing techniques.
-- More projects coming soon...
+**[QuantaLab](https://quanta-lab.vercel.app/)** — Interactive computational physics and quantum mechanics simulations built with React, Three.js, and scientific computing techniques.
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSIPHYS&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSIPHYS&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PSIPHYS&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PSIPHYS&layout=compact&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PSIPHYS&theme=default)
 
 ---
+## Connect with Me
+
+- GitHub: https://github.com/PSIPHYS
+- LinkedIn: https://www.linkedin.com/in/shahad-aldhafiri/
+- Portfolio: https://quanta-lab.vercel.app/
 
 > *"Physics is understood best when we can compute, simulate, and visualize it."*
