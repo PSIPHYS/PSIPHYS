@@ -45,6 +45,6 @@ Computational Physics • Quantum Research • Scientific Computing • Simulati
 - GitHub: [PSIPHYS](https://github.com/PSIPHYS)
 - LinkedIn: [Shahad Aldhafiri](https://www.linkedin.com/in/shahad-aldhafiri/)
 - QuantaLab: https://quanta-lab.vercel.app
-- Portfolio: [https://quanta-lab.vercel.app/](https://shahad-aldhafiri-portfolio.ai.studio/)
+- Portfolio: https://shahad-aldhafiri-portfolio.ai.studio/
 
 > *"Physics is understood best when we can compute, simulate, and visualize it."*
