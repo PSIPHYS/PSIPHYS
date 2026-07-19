@@ -41,9 +41,9 @@ Computational Physics • Quantum Research • Scientific Computing • Simulati
   <a href="https://github.com/PSIPHYS" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" />
   </a>
-  <a href="[https://www.linkedin.com/in/s-dhafiri-808839299/)]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
+  <a href="https://www.linkedin.com/in/s-dhafiri-808839299/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+</a>
   <a href="https://quanta-lab.vercel.app/" target="_blank">
     <img src="icons%20-%2012.png" height="40" alt="QuantaLab" />
   </a>
